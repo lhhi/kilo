@@ -16,7 +16,7 @@
 #define KILO_QUIT_TIMES 3
 #define HL_HIGHLIGHT_NUMBERS (1<<0)
 #define HL_HIGHLIGHT_STRINGS (1<<1)
-
+//hello world www
 struct editorSyntax {
   char *filetype;
   char **filematch;
